@@ -1,4 +1,4 @@
-[rsschool-cv](http://IgorK0t/rsschool-cv/)
+[rsschool-cv](https://igork0t.github.io/rsschool-cv/cv)
 
 ---
 
